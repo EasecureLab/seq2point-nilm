@@ -6,6 +6,7 @@ from seq2point_test import Tester
 
 # You need to input your test data directory
 test_directory="~/mingjun/research/housedata/refit/kettle/kettle_test_H2.csv"
+test_directory = "C:\\Users\\davwang\\Desktop\\seq2point-nilm\\dataset_management\\refit\\kettle\\kettle_test_H2.csv"
 
 parser = argparse.ArgumentParser(description="Train a pruned neural network for energy disaggregation. ")
 
